@@ -61,9 +61,23 @@ h1.site-title span {
   stroke-width: 2;
 }
 
-.bila{
-  background-color:white;
-  width: 2rem;
+.btn{
+    width: 2rem;
   height: 2rem;
   border-radius: 50%;
+}
+.white{
+  background-color:white;
+}
+.black{
+  background-color: black;
+}
+.red{
+  background-color:rgb(160, 37, 37);
+}
+.blue{
+  background-color: rgb(120, 199, 245);
+}
+.color-option__box{
+  display: flex;
 }
