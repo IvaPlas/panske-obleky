@@ -1,0 +1,35 @@
+[33mcommit 25fa21442da789b90d68ede24d63da2bb7ffd1ff[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Zuzike Nemesová <darigjorkinen@gmail.com>
+Date:   Tue Apr 19 19:16:49 2022 +0200
+
+    Stylování hlavičky
+
+[33mcommit fff61d423fe7eb3191a9a4978d427177000d4004[m
+Author: Martin Podloucký <podlouckymartin@gmail.com>
+Date:   Tue Apr 19 17:19:28 2022 +0200
+
+    Upraveno dle současného stylu výuky
+
+[33mcommit 0b9721c1268443e075ad5132bcde7b235cb93ef7[m
+Author: Martin Podloucký <podlouckymartin@gmail.com>
+Date:   Mon Apr 26 08:47:22 2021 +0200
+
+    Smazání font-face ze stylů.
+
+[33mcommit f79de48a4d40f511d9063f4c487c6ccaffe26b4b[m
+Author: Martin Podloucký <podlouckymartin@gmail.com>
+Date:   Sun Apr 25 21:16:45 2021 +0200
+
+    Zjednodušení konstry projektu.
+
+[33mcommit ad00b444f09a16f02cc25a5e7c89c3647292551f[m
+Author: Martin Podloucký <podlouckymartin@gmail.com>
+Date:   Sun Apr 25 14:37:46 2021 +0200
+
+    Výchozí zdrojový soubory pro základ projektu.
+
+[33mcommit 1d452a76e5cb2d7044210aa040b8a7dd74138a61[m
+Author: Martin Podloucký <podlouckymartin@gmail.com>
+Date:   Sun Apr 25 10:59:15 2021 +0200
+
+    Initial commit
